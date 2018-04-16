@@ -1,6 +1,8 @@
 # pidown
 Download million songs from Terminal
 
+![](./imgs/screenshot.png)
+
 
 ## Requirements
 - Python 3 installed on your system.
